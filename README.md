@@ -1,9 +1,12 @@
 # 🏹 Archers Adventure
+![Godot](https://img.shields.io/badge/Godot-3.5-blue)
+![Status](https://img.shields.io/badge/status-learning_project-green)
 
 A 2D platformer game developed using **Godot 3.5**.
 
-In the game the player controls an archer exploring dangerous levels filled with enemies, treasure chests and hidden paths.  
-To complete a level the player must collect keys and unlock the exit door while surviving skeleton attacks.
+The player controls an archer exploring dangerous levels filled with enemies,
+treasure chests and hidden paths. To complete a level the player must collect
+keys and unlock the exit door while surviving skeleton attacks.
 
 ---
 
@@ -24,11 +27,11 @@ However, the chests are often guarded by **skeleton enemies**, so the player mus
 
 ---
 
-## 🎹 Controls
+## 🎮 Controls
 
 | Key | Action |
-|----|----|
-| ← → | Move |
+|-----|-------|
+| ← / → | Move |
 | ↑ | Jump |
 | Space (hold) | Shoot arrows |
 
@@ -101,17 +104,17 @@ Some bugs are currently known and will be fixed in future updates:
 
 ---
 
-## 🔧 Planned Improvements
+## 🗺 Roadmap
 
-Future updates may include:
+Planned future improvements:
 
 - Fix skeleton attack range bug
 - Prevent skeletons from attacking during death animation
 - Minor visual and texture improvements
 - Implement gameplay mechanics for coins
-- Character upgrades or customization using coins
-- **New levels**
-- **New environments and level themes**
+- Character upgrades or cosmetic customization
+- New levels
+- New environments and level themes
 
 ---
 
