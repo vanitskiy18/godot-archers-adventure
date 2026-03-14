@@ -75,11 +75,11 @@ They can be defeated by shooting arrows.
 
 ### Surface Level
 
-![Surface gameplay](screenshots/level1.png)
+![Surface gameplay](screenshots/level1.jpg)
 
 ### Cave Area
 
-![Cave gameplay](screenshots/cave.png)
+![Cave gameplay](screenshots/cave.jpg)
 
 ---
 
